@@ -1,4 +1,14 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Climatiza RJ – Refrigeração e Climatização</title>
 
+  <!-- Meta Preview para WhatsApp / Facebook -->
+  <meta property="og:title" content="Climatiza RJ – Refrigeração e Climatização" />
+  <meta property="og:description" content="Instalação, limpeza e conserto de ar-condicionado, geladeiras, freezers, bebedouros, balcões e cervejeiras. Atendimento em Niterói, Alcântara, Magé, Maricá e região." />
+  <meta property="og:url" content="https://aw-tecnico.github.io/Climatiza-o---RJ/" />
+  <meta property="og:type" content="website" />
+</head>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
