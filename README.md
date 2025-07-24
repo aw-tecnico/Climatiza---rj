@@ -2,6 +2,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <title>WA Técnico – Refrigeração e Climatização</title>
+  <meta name="description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros.">
+
+  <!-- Tags para prévia -->
+  <meta property="og:title" content="WA Técnico – Refrigeração e Climatização">
+  <meta property="og:description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros.">
+  <meta property="og:url" content="https://aw-tecnico.github.io/Climatiza---rj/">
+  <meta property="og:type" content="website">
+  <!-- imagem opcional -->
+  <!-- <meta property="og:image" content="https://aw-tecnico.github.io/banner.jpg"> -->
+</head>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <!-- Título da página -->
   <title>WA Técnico – Refrigeração e Climatização</title>
 
