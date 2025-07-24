@@ -1,3 +1,9 @@
+meta property="og:title" content="Climatiza RJ – Refrigeração e Climatização" />
+<meta property="og:description" content="Instalação, limpeza e conserto de ar-condicionado, geladeiras, bebedouros, cervejeiras e muito mais!" />
+<meta property="og:url" content="https://aw-tecnico.github.io/Climatiza-o---RJ/" />
+<meta property="og:type" content="website" />
+
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
