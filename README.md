@@ -1,117 +1,103 @@
 
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="WA Técnico – Refrigeração e Climatização. Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros.">
-  <title>WA Técnico – Refrigeração e Climatização</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Climatiza RJ – Refrigeração e Climatização</title>
   <style>
     body {
       font-family: Arial, sans-serif;
+      background: #f9f9f9;
       margin: 0;
-      background-color: #f0f8ff;
-      color: #333;
-      text-align: center;
+      padding: 0;
     }
     header {
-      background-color: #005f73;
+      background-color: #00557f;
       color: white;
+      padding: 20px 15px;
+      text-align: center;
+    }
+    section {
       padding: 20px;
+      max-width: 750px;
+      margin: auto;
     }
-    h1 {
-      margin: 0;
-      font-size: 26px;
+    h2 {
+      color: #00557f;
     }
-    .frase {
-      font-size: 18px;
-      margin: 15px 0;
-      color: #007f91;
-    }
-    .servicos {
-      padding: 20px;
-    }
-    .servicos p {
-      font-size: 17px;
-      line-height: 1.6;
-    }
-    .galeria {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 15px;
-      padding: 20px;
-    }
-    .galeria img {
-      width: 300px;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    }
-    footer {
-      background-color: #005f73;
-      color: white;
-      padding: 10px;
-      font-size: 14px;
+    ul {
+      padding-left: 20px;
+      margin-bottom: 30px;
     }
     .whatsapp-button {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      background-color: #25d366;
-      color: white;
-      border: none;
-      border-radius: 50px;
-      padding: 15px 20px;
-      font-size: 16px;
-      cursor: pointer;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-      text-decoration: none;
       display: flex;
       align-items: center;
-      z-index: 999;
+      justify-content: center;
+      background-color: #25d366;
+      color: white;
+      padding: 14px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      width: fit-content;
+      margin-top: 10px;
     }
     .whatsapp-button img {
-      width: 24px;
-      height: 24px;
-      margin-right: 8px;
+      width: 22px;
+      height: 22px;
+      margin-right: 10px;
+    }
+    footer {
+      background-color: #00384d;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+    a {
+      color: #25d366;
+      text-decoration: none;
     }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>WA Técnico – Refrigeração e Climatização</h1>
+    <h1>Climatiza RJ</h1>
+    <p>Refrigeração e Climatização</p>
+    <p>Atendemos Niterói, Alcântara, Itaboraí, Magé, Maricá e região</p>
   </header>
 
-  <div class="frase">
-    Atendimento rápido e acessível em Niterói, São Gonçalo, Itaboraí, Magé e região.
-  </div>
-
-  <section class="servicos">
-    <p>Instalação, manutenção e conserto de:</p>
-    <p><strong>❄️ Ar-condicionado</strong> (split, janela e portátil)</p>
-    <p><strong>🧊 Geladeiras, freezers, balcões, bebedouros e expositores</strong></p>
-    <p>Serviço com preço justo, confiança e qualidade para residências e empresas.</p>
+  <section>
+    <h2>🧰 Serviços oferecidos</h2>
+    <ul>
+      <li>Instalação de ar-condicionado</li>
+      <li>Higienização completa</li>
+      <li>Conserto de geladeiras, freezers e bebedouros</li>
+      <li>Manutenção de balcões, cervejeiras e expositores</li>
+      <li>Atendimento preventivo e emergencial</li>
+    </ul>
   </section>
 
-  <section class="galeria">
-    <img src="ar.jpg" alt="Ar-condicionado">
-    <img src="ar1.jpg" alt="Serviço de ar-condicionado">
-    <img src="ar2.jpg" alt="Ar instalado">
-    <img src="ar3.jpg" alt="Trabalho concluído">
-    <img src="ar4.jpg" alt="Instalação">
-    <img src="geladeira.jpg" alt="Geladeira consertada">
-    <img src="freezer.jpg" alt="Freezer consertado">
-    <img src="servico.jpg" alt="Serviço realizado">
+  <section>
+    <h2>📞 Contato Rápido</h2>
+    <p>Chame agora no WhatsApp:</p>
+    <a href="https://wa.me/5521990969376" class="whatsapp-button" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" alt="WhatsApp" />
+      Fale Conosco
+    </a>
+    <p style="margin-top: 15px;">Ou envie um e-mail: <strong>climatizarj.servico@gmail.com</strong></p>
   </section>
-
-  <a class="whatsapp-button" href="https://wa.me/5521990969376" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
-    Fale conosco
-  </a>
 
   <footer>
-    © 2025 WA Técnico – Todos os direitos reservados.
+    <p>Siga no Instagram: 
+      <a href="https://www.instagram.com/warefrigerareclimatizar" target="_blank">
+        @warefrigerareclimatizar
+      </a>
+    </p>
+    <p>Desenvolvido com carinho para seu conforto ❄️</p>
   </footer>
 
 </body>
