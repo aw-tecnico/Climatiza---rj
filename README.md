@@ -1,62 +1,4 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>WA Técnico – Refrigeração e Climatização</title>
-  <meta name="description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros.">
-
-  <!-- Tags para prévia -->
-  <meta property="og:title" content="WA Técnico – Refrigeração e Climatização">
-  <meta property="og:description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros.">
-  <meta property="og:url" content="https://aw-tecnico.github.io/Climatiza---rj/">
-  <meta property="og:type" content="website">
-  <!-- imagem opcional -->
-  <!-- <meta property="og:image" content="https://aw-tecnico.github.io/banner.jpg"> -->
-</head>
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- Título da página -->
-  <title>WA Técnico – Refrigeração e Climatização</title>
-
-  <!-- Meta padrão -->
-  <meta name="description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros." />
-
-  <!-- Open Graph (para Facebook, WhatsApp, LinkedIn etc.) -->
-  <meta property="og:title" content="WA Técnico – Refrigeração e Climatização" />
-  <meta property="og:description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros." />
-  <meta property="og:url" content="https://aw-tecnico.github.io/Climatiza-o---RJ/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="URL_DA_IMAGEM" />
-
-  <!-- Twitter Cards (opcional, para Twitter/X) -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="WA Técnico – Refrigeração e Climatização" />
-  <meta name="twitter:description" content="Instalação, manutenção e conserto de ar-condicionado, geladeiras, balcões, freezers e bebedouros." />
-  <meta name="twitter:image" content="URL_DA_IMAGEM" />
-</head>
-
-
-meta property="og:title" content="Climatiza RJ – Refrigeração e Climatização" />
-<meta property="og:description" content="Instalação, limpeza e conserto de ar-condicionado, geladeiras, bebedouros, cervejeiras e muito mais!" />
-<meta property="og:url" content="https://aw-tecnico.github.io/Climatiza-o---RJ/" />
-<meta property="og:type" content="website" />
-
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Climatiza RJ – Refrigeração e Climatização</title>
-
-  <!-- Meta Preview para WhatsApp / Facebook -->
-  <meta property="og:title" content="Climatiza RJ – Refrigeração e Climatização" />
-  <meta property="og:description" content="Instalação, limpeza e conserto de ar-condicionado, geladeiras, freezers, bebedouros, balcões e cervejeiras. Atendimento em Niterói, Alcântara, Magé, Maricá e região." />
-  <meta property="og:url" content="https://aw-tecnico.github.io/Climatiza-o---RJ/" />
-  <meta property="og:type" content="website" />
-</head>
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -159,3 +101,4 @@ meta property="og:title" content="Climatiza RJ – Refrigeração e Climatizaç�
 
 </body>
 </html>
+
